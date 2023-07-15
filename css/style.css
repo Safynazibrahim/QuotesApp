@@ -1,0 +1,22 @@
+body {
+text-align: center;
+}
+h1 {
+font-size: 80px;
+font-weight: 1000;
+margin: 50px 0px;
+}
+button {
+margin: 50px 0px;
+padding: 30px 80px;
+background-color: blue;
+color: #fff;
+border: 2px solid black;
+}
+button:hover {
+background-color: green;
+border: 2px solid rgb(34, 34, 34);
+}
+p {
+font-size: 40px;
+}
